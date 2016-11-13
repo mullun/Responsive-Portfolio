@@ -20,7 +20,8 @@
 	width: 25%;
 	background-color: #4aaaa5;
 	color: white;
-	padding:5px;
+	padding-bottom: 9px;
+	padding-top: 9px;
 	font-size: 12px;
 	font-family: Georgia, Times, 'Times New Roman', serif;
 	float: left;
@@ -401,6 +402,10 @@ hr.style8 {
 
 	#navTopContact li:hover {
 	    background-color: #C2F2F0;
+	}
+
+	h1 {
+		font-size: 16px;
 	}
 
 
